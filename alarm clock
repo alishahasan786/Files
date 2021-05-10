@@ -1,5 +1,3 @@
-#code on how to set an alarm in python
-
 from datetime import datetime
 from playsound import playsound
 
